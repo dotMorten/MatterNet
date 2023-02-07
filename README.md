@@ -1,4 +1,4 @@
 # MatterNet
-.NET Client library for controller Matter devices (formerly known as Project Chip)
+.NET Client library for controlling Matter devices (formerly known as Project Chip)
 
-#WORK IN PROGRESS - NOT FUNCTIONAL
+#WORK IN PROGRESS - NOTHING IS FUNCTIONAL
